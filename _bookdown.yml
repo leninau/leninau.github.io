@@ -1,0 +1,13 @@
+book_filename: "Tesis"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Capítulo "
+rmd_files:
+  - "index.Rmd"
+  - "intro.Rmd"
+  - "teorico.Rmd"
+  - "metodologia.Rmd"
+  - "resultados.Rmd"
+  - "conclusiones.Rmd"
+  - "referencias.Rmd"

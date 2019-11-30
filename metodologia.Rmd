@@ -1,0 +1,67 @@
+# Metodología
+
+
+## Cursos de implementación
+  
+  Durante los semestres febrero-junio y agosto-diciembre de 2018 se implementaron dos cursos con fundamento en la PICM en la Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato (UPIIG) del Instituto Politécnico Nacional (IPN).  Los estudiantes considerados en el desarrollo de este proyecto cursaban las carreras de
+  
+  1. Aeronáutica,
+  2. Biotecnología,
+  3. Farmacéutica, y
+  4. Sistemas Automotrices.
+  
+  
+  
+  La evaluación de todos los cursos en la UPIIG se divide en tres parciales y un examen extraordinario. Los estudiantes pueden aprobar con el promedio de los parciales. Para el diseño de los cursos, se tomó esta división en la organización de las actividades. El esquema general de los parciales se describe en la Tabla \@ref(tab:Parciales).
+  
+  
+  
+  
+  ```{r Parciales, tidy=FALSE, echo=FALSE}
+  text_tbl <- data.frame(
+    Parcial = c("*Primero*", "*Segundo*", "*Tercero*"),
+    Semestre_1 = c(
+      "Enfocándose en las matemáticas involucradas, se resuelve la cuestión $C_0$: ¿Cómo se puede analizar el rendimiento de un corredor si se cuenta con sus registros de GPS?",
+      "Se continúa con el estudio de $C_0$ del parcial anterior, pero ahora se espera que integren programación.", 
+      "Estudiar un artículo de aplicación de métodos numéricos para ecuaciones diferenciales ordinarias. "
+    ),
+    Semestre_2 = c(
+      "Estudiar un artículo de aplicación de métodos numéricos para interpolación. ",
+      "Los estudiantes buscan definir una cuestión generatriz. Los profesores ayudan a los estudiantes con la viabilidad.", 
+      "Se intenta resolver la cuestión generatriz formulada en el parcial anterior usando matemáticas y programación."
+    )
+  )
+  knitr::kable(text_tbl, caption = 'Distribución general de las actividades por parciales.', col.names = c("**Parcial**", "**Febrero-Junio**", "**Agosto-Diciembre**"))
+  ```
+  
+  
+  
+  
+  Las actividades se realizaron en equipos de 3 a 5 estudiantes. Entonces, en cada grupo de entre 15 y 40 alumnos se formaron entre 3 y 9 equipos, cuya conformación permanecía durante todo el semestre, por lo general.
+  
+  Los dos cursos contaron con los criterios de evaluación por cada parcial mostrados en la Tabla \@ref(tab:Criterios).
+  
+  Table: (\#tab:Criterios) Criterios de evaluación por cada parcial.
+  
+  |**Aspecto**|**Porcentaje**|**Descripción**|
+  |------------|:---------:|---------------------------------------------------|
+  |*Bitácora del estudiante* |20%|Se solicitó un cuaderno tamaño profesional cosido. Se incluían las observaciones sobre las actividades que los estudiantes realizaron en clase o fuera de ella. Los profesores podrían indicar contenidos especiales para esta bitácora.|
+  |*Bitácora del profesor*|20%|Este aspecto toma en cuenta las observaciones del profesor durante la clase, incluyendo la asistencia o falta de trabajo de algún estudiante.|
+  |*Avance del reporte*|10%|Se entregó a mediados de cada parcial. Sirvió para que los estudiantes fueran dando contenido al reporte del parcial. Se esperaba retroalimentar estos avances, pero no siempre se pudo hacer.
+  |*Reporte*|30%|Se entregaba al final del parcial incluyendo posible retroalimentación de sus compañeros de otros equipos en la presentación.|
+  |*Presentación*|20%|En cada grupo, cada equipo expone a los demás las respuestas o cuestiones formuladas en su REI.|
+  
+  
+  En cada aspecto, excepto en la bitácora del profesor, hay entregables de los alumnos que se pueden usar como datos en este proyecto de tesis de doctorado. El objetivo es resolver el problema que se formula enseguida.
+  
+  
+## Problema de Investigación
+  
+  La Teoría Antropológica de lo Didáctico ha sido el marco de propuestas pedagógicas como la descrita anteriormente. Esto ha representado que las implementaciones de esas propuestas puedan ser evaluadas y divulgadas con la posibilidad de que otros colegas puedan a su vez evaluarla y hacerle adecuaciones o mejoras. Bajo estas consideraciones, el presente trabajo tiene como objetivo responder la siguiente pregunta: ¿Cómo se describe un Recorrido de Estudio e Investigación seguido por estudiantes de ingeniería desde la formulación de la cuestión generatriz $C_0$ hasta la obtención de la respuesta privilegiada $R^\heartsuit$? Con esto se pretende aportar al conocimiento acerca de la economía y la ecología de las propuestas didácticas hechas desde la Pedagogía de la Investigación y el Cuestionamiento del Mundo.
+  
+  
+  
+
+  
+  
+  

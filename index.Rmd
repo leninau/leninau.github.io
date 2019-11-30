@@ -1,0 +1,23 @@
+--- 
+lang: "es-MX"
+title: "Géneración y Desarrollo de Recorridos de Estudio e Investigación en la Formación Matemática de Futuros Ingenieros"
+author: "Lenin Augusto Echavarría Cepeda"
+date: "`r format(Sys.time(), '%d de %B de %Y')`"
+site: bookdown::bookdown_site
+documentclass: book
+csl: apa.csl
+bibliography: Tesis.bib
+link-citations: yes
+description: "Esta trabajo de tesis reinició el 20 de noviembre de 2019."
+---
+
+# Resumen {-}
+
+Vamos a hacer una prueba de referencias: [@Barquero2018; @Bartolome2018].
+
+
+Otra vez: [@Barquero2018; @Bartolome2018].
+
+
+Sólo un pequeño cambio. Otro cambio. Otro cambiesito.
+

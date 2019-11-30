@@ -1,0 +1,37 @@
+---
+title: "Generación y Desarrollo de REIs (Esquema)"
+author: "Lenin Augusto Echavarría Cepeda"
+date: "28/Nov/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# TAD
+## Aspectos generales
+### Transposición
+### Praxeologías
+### Niveles de codeterminación
+## PICM
+### REIs
+### Dialécticas
+### Actitudes
+## MER
+# Diseño del curso
+## Revisión general de la disciplina
+## Formulación de la cuestión generatriz
+## Desarrollo del REI
+
+# Resultados
+## Examen de la disciplina
+## Reportes y videos de las cuestiones generatrices
+## Reportes y presentaciones finales
+## Encuestas
+
+# Discusión
+## Dialécticas
+## Actitudes
+## Cognitivas
+## Hacia un nuevo diseño
