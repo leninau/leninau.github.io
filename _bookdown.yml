@@ -6,9 +6,7 @@ language:
     chapter_name: "Capítulo "
 rmd_files:
   - "index.Rmd"
-  - "intro.Rmd"
   - "teorico.Rmd"
   - "metodologia.Rmd"
   - "resultados.Rmd"
-  - "conclusiones.Rmd"
-  - "referencias.Rmd"
+  - "discusion.Rmd"

@@ -13,11 +13,7 @@ description: "Esta trabajo de tesis reinició el 20 de noviembre de 2019."
 
 # Resumen {-}
 
-Vamos a hacer una prueba de referencias: [@Barquero2018; @Bartolome2018].
 
 
-Otra vez: [@Barquero2018; @Bartolome2018].
 
-
-Sólo un pequeño cambio. Otro cambio. Otro cambiesito.
 
